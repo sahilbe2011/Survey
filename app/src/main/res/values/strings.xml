@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Peacs Research</string>
+    <string name="invalid_phone">Enter valid number</string>
+    <string name="invalid_number">Please enter number</string>
+    <string name="invalid_name">Please Enter name</string>
+    <string name="invalid_data">Please Enter Village Name</string>
+</resources>
